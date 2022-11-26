@@ -21,11 +21,11 @@ Using nothing
 
 > Conditional statements control behavior in JavaScript and determine whether or not pieces of code can run.
 
-There are multiple different types of conditionals in JavaScript including:
+>There are multiple different types of conditionals in JavaScript including:
 
-“If” statements: where if a condition is true it is used to specify execution for a block of code.
-“Else” statements: where if the same condition is false it specifies the execution for a block of code.
-“Else if” statements: this specifies a new test if the first condition is false.
+>“If” statements: where if a condition is true it is used to specify execution for a block of code.
+>“Else” statements: where if the same condition is false it specifies the execution for a block of code.
+>“Else if” statements: this specifies a new test if the first condition is false.
 
 #Javascript loops.
 
@@ -36,7 +36,7 @@ There are multiple different types of conditionals in JavaScript including:
 > JavaScript methods are actions that can be performed on objects. A JavaScript method is a property containing a function definition. Methods are functions stored as object properties.
 
 
-#Javascript Doms.#
+#Javascript Doms.
 
 > (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document."
 
